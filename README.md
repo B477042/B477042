@@ -6,7 +6,7 @@
 
 ## Weakly Activate
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/B477042?username=willianrod)](https://github.com/B477042)
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/B477042?username=willianrod)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B477042&repo=GraduationProject)](https://github.com/B477042/GraduationProject)
