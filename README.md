@@ -15,4 +15,3 @@
 ## Introduce
 - 🇰🇷 
 - :mortar_board: Hongik University
-- :c++:
