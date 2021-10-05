@@ -13,4 +13,6 @@
 
 
 ## Introduce
-test
+- ?? 
+- :mortar_board: Hongik University
+- :c++:
