@@ -13,6 +13,5 @@
 
 
 ## Introduce
-- ?? 
+- ?Ÿ‡°ðŸ‡? 
 - :mortar_board: Hongik University
-- :c++:
