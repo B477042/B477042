@@ -15,4 +15,5 @@
 ## Introduce
 - 🇰🇷
 - :mortar_board: Hongik University
+- Gurobal games, Netmarble
 - Language : <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="35" height="35">
