@@ -12,8 +12,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B477042&repo=Server2021)](https://github.com/B477042/Server2021)
 
 
-## Introduce
-- 🇰🇷
+## 학력 / 경력
 - :mortar_board: Hongik University
-- Netmarble
-- Language : <img src="https://user-images.githubusercontent.com/42747200/46140125-da084900-c26d-11e8-8ea7-c45ae6306309.png" width="35" height="35">
+- Gurobal Games 2022.01 - 2025.03
+
