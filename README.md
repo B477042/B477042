@@ -13,6 +13,6 @@
 
 
 ## Repositories
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B477042&repo=GraduationProject)](https://github.com/B477042/GraduationProject)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B477042&repo=TeamProject_2021)](https://github.com/B477042/TeamProject_2021)
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B477042&repo=Server2021)](https://github.com/B477042/Server2021)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=B477042&repo=PostingSample)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=B477042&repo=GraduationProject)](https://github.com/Pranesh-2005/github-readme-stats)
+[![Readme Card](https://github-readme-stats-fast.vercel.app/api/pin/?username=B477042&repo=Server2021)](https://github.com/Pranesh-2005/github-readme-stats)
