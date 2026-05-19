@@ -7,7 +7,7 @@
 ![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=B477042&hide_progress=false)
 
 
-## Education / Work History
+## Education / Work
 - :mortar_board: Hongik University
 - Gurobal Games 2022.01.03 - 2025.03.31
 
