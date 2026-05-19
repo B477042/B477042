@@ -1,18 +1,18 @@
 
 ## My Git stats
+![YoungWookChoi's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=B477042&show_icons=true&theme=highcontrast)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=B477042&show_icons=true&include_all_commits=true&theme=blue-green&hide_border=true&count_private=true" alt="Young Wook Choi's github stats" /></a> 
+[![GitHub Streak](https://github-readme-stats-fast.vercel.app/api/streak?username=B477042&theme=highcontrast)](https://github.com/pranesh-2005/github-readme-stats-fast)
 
-<a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=B477042&theme=blue-green&hide_border=true" /></a>
+![Top Langs](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=B477042&hide_progress=false)
+
+
+## Education / Work History
+- :mortar_board: Hongik University
+- Gurobal Games 2022.01.03 - 2025.03.31
 
 
 ## Repositories
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B477042&repo=GraduationProject)](https://github.com/B477042/GraduationProject)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B477042&repo=TeamProject_2021)](https://github.com/B477042/TeamProject_2021)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=B477042&repo=Server2021)](https://github.com/B477042/Server2021)
-
-
-## 학력 / 경력
-- :mortar_board: Hongik University
-- Gurobal Games 2022.01 - 2025.03
-
